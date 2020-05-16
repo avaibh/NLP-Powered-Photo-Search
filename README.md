@@ -1,4 +1,4 @@
-## Voice Based Photo Album Search
+## Voice Controlled Photo Album Search
 
 ##### [Link To Web Application Photo Album](http://smartphotoalbum.s3-website-us-east-1.amazonaws.com)
 
